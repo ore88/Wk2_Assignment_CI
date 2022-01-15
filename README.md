@@ -1,10 +1,10 @@
 # Wk2_Assignment_CI
 
 ## Creating a Scaffold 
-* 'Requirements.txt': packages
+* 'Requirements.txt': Packages
 * 'hello_test.py': Test Code
 * 'hello.py': Code 
-* 'Makefile': Coobook runs commands 
+* 'Makefile': Coobook Runs Commands 
 
 Build server YAML files 
 
