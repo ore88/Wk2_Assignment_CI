@@ -1,6 +1,11 @@
-## Wk2_Assignment_CI
+# Wk2_Assignment_CI
 
-  'Requirements.txt'
-  'Test.py'
-  'hello.py'
-  'Makefile':
+## Creating a Scaffold 
+* 'Requirements.txt': packages
+* 'hello_test.py': Test Code
+* 'hello.py': Code 
+* 'Makefile': Coobook runs commands 
+
+Build server YAML files 
+
+* Github Actions Configurations Files
