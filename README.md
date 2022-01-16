@@ -9,3 +9,5 @@
 Build server YAML files 
 
 * Github Actions Configurations Files
+
+[![Python application test with Github Actions](https://github.com/ore88/Wk2_Assignment_CI/actions/workflows/main.yml/badge.svg)](https://github.com/ore88/Wk2_Assignment_CI/actions/workflows/main.yml)
